@@ -2,6 +2,6 @@
 __author__ = "Bassim Aly"
 __EMAIL__ = "basim.alyy@gmail.com"
 
-from refactor_1 import important_function
+from refactor_1 import important_function_new
 
-important_function(10)
+important_function_new(10)

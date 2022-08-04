@@ -3,5 +3,5 @@ __author__ = "Bassim Aly"
 __EMAIL__ = "basim.alyy@gmail.com"
 
 
-def important_function(x):
+def important_function_new(x):
     print(x)
